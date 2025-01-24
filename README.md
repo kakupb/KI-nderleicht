@@ -1,0 +1,2 @@
+# KI-nderleicht
+AI Consulting
