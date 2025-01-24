@@ -1,0 +1,142 @@
+Yakub Adar 
+Data Scientist 
+
+yakubadar99@gmail.com 
+
++49 1732521024 
+
+Neuss, Deutschland 
+
+SKILLS 
+
+MS Oﬃce 
+
+R 
+
+Python 
+
+SQL 
+
+React & Next.js 
+
+HTML 
+
+Javascript 
+
+typescript 
+
+C++ 
+
+GIT 
+
+Docker 
+
+LANGUAGES 
+
+German 
+Native or Bilingual Proﬁciency 
+
+English 
+Native or Bilingual Proﬁciency 
+
+Turkish 
+Native or Bilingual Proﬁciency 
+
+French 
+Limited Working Proﬁciency 
+
+INTERESTS 
+
+Refereeing 
+
+Running 
+
+Cooking 
+
+Traveling 
+
+WORK EXPERIENCE 
+
+Data Scientist 
+Deutsche Glasfaser 
+01/2023 - Present,  
+
+Achievements/Tasks 
+
+Düsseldorf, Deutschland 
+
+Performed geospatial analysis using geographic data with Geopandas and Spatial SQL. 
+
+Applied Natural Language Processing (NLP) techniques for text and sentiment analysis. 
+
+Utilized XGBoost and Decision Trees for classiﬁcation, regression, and predictive modeling
+tasks, enhancing decision-making processes and model performance. 
+
+Developed and implemented an AI chatbot for automated customer support. 
+
+Applied time series analysis methods, including Linear and Regressional Analytics, for
+forecasting and identifying seasonal patterns. 
+
+Developed applications using tkinter for selecting road surface segments to predict their
+condition with models, as well as for interactive ﬁltering and visualization of Excel data. 
+
+Created a comprehensive interface for fraud detection to compare construction company
+images in state-aid projects using Vision Transformer (ViT). 
+
+Internship and project-management 
+HHU Institute of Computational Cell Biology 
+08/2021 - 03/2023,  
+
+Achievements/Tasks 
+
+Düsseldorf, Germany 
+
+Data analysis and visualization using Python to extract insights and present ﬁndings eﬀectively. 
+
+Managed independent projects utilizing SIFT4G, applying Python and C++ for robust and
+eﬃcient implementations. 
+
+Conducted heads or tails (HOT) analysis using Python and C++, focusing on genetic and
+molecular data interpretation. 
+
+Internship in research 
+HHU Institute of Quantitative Genetics and Genomics of Plants 
+05/2020 - 10/2020,  
+
+Düsseldorf, Germany 
+
+Achievements/Tasks 
+
+Conducted QTL analysis in Quantitative Genetics to link genetic markers with traits. 
+
+Performed statistical data analysis using R for interpreting and visualizing data. 
+
+Conducted ﬁeld research, including data collection and experimental design. 
+
+Employed Decision Trees for decision-making processes and predictive modeling. 
+
+EDUCATION 
+
+Master of Science - Biology with a focus on Artiﬁcial Intelligence &
+Data Science 
+Heinrich-Heine-Universität 
+10/2020 - 03/2023,  
+
+Düsseldorf, 2.1 
+
+Courses 
+
+Thesis on: Evaluating the impact of sequence alignment variation on the prediction of the
+eﬀects of genetic mutations on phenotypes 
+
+Bachelor of Science - Biology 
+Heinrich-Heine-Universität 
+10/2017 - 10/2020,  
+
+Courses 
+
+Bachelor-thesis on Quantitative Genetics Analysis on Barley (with R) 
+
+Düsseldorf, 2.7 
+
+
